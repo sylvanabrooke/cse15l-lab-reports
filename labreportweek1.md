@@ -12,6 +12,10 @@
 * try some commands, such as cd, ls, pwd, mkdir, and cp on your computer, and the server
 * you can see the list of files in the server by typing ls-a
 
-![Image]()
+![Image](https://github.com/sylvanabrooke/cse15l-lab-reports/blob/0846a19a311616d3fcd9ef7b9d5617ac37ed6070/Screen%20Shot%202022-09-30%20at%204.41.01%20PM.png)
+* Make a file on your own computer
+* run it with scp in front and your username on the end, like this: scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
+* you can now run it on the server's terminal
+
 ![Image]()
 ![Image]()
