@@ -21,4 +21,6 @@
 * to make a key, ensuring that you don't have to put your password in when switching between servers: type ssh-keygen
 * type enter until it makes a visual key, then type ssh cs15lfa22zz@ieng6.ucsd.edu
 * in your server, type mkdir .ssh, then log out and type scp /Users/<personal username>/.ssh/id_rsa.pub <ucsd username>@ieng6.ucsd.edu:~/.ssh/authorized_keys
-![Image]()
+![Image](https://github.com/sylvanabrooke/cse15l-lab-reports/blob/9e6c92d46c0cbe6ecaa5cdeb5efeb2e99375e90a/Screen%20Shot%202022-09-30%20at%206.21.31%20PM.png)
+* you can simplify commands by putting them in quotes, ex: ssh cs15lfa22@ieng6.ucsd.edu "ls"
+* you can also use semicolons to run multiple commands on one line, ex: cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
