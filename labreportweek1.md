@@ -8,7 +8,10 @@
 * type in your username and @ieng6.ucsd.edu to open your server
 * type in your password when prompted- it won't show characters, but it is being typed, and hit enter
 
-![Image]()
+![Image](https://github.com/sylvanabrooke/cse15l-lab-reports/blob/107b050553c773e930d3bf1af2b0dfa697a0578a/Screen%20Shot%202022-09-30%20at%204.41.26%20PM.png)
+* try some commands, such as cd, ls, pwd, mkdir, and cp on your computer, and the server
+* you can see the list of files in the server by typing ls-a
+
 ![Image]()
 ![Image]()
 ![Image]()
