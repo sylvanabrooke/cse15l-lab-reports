@@ -17,5 +17,8 @@
 * run it with scp in front and your username on the end, like this: scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
 * you can now run it on the server's terminal
 
-![Image]()
+![Image](https://github.com/sylvanabrooke/cse15l-lab-reports/blob/1f7a67b23782a6d7b3ec2698c75332d6314ff267/Screen%20Shot%202022-09-30%20at%206.17.03%20PM.png)
+* to make a key, ensuring that you don't have to put your password in when switching between servers: type ssh-keygen
+* type enter until it makes a visual key, then type ssh cs15lfa22zz@ieng6.ucsd.edu
+* in your server, type mkdir .ssh, then log out and type scp /Users/<personal username>/.ssh/id_rsa.pub <ucsd username>@ieng6.ucsd.edu:~/.ssh/authorized_keys
 ![Image]()
