@@ -16,7 +16,7 @@
 * Make a file on your own computer, then compile and run it
 * run it with scp in front and your username on the end, like this: scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
 * you can now compile and run it on the server's terminal
-* running it on the servers terminal will 
+* running it on your own computer shows what file it is in, and running it on the server shows the files it is contained in there
 
 ![Image](./image5.png)
 * to make a key, ensuring that you don't have to put your password in when switching between servers: type ssh-keygen
