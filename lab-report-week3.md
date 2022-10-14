@@ -19,7 +19,6 @@ class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
     ArrayList<String> list = new ArrayList<String>();
-
     public String handleRequest(URI url) {
         if (url.getPath().equals("/")) {
             String temp ="";
