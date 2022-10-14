@@ -33,5 +33,16 @@
 }
 
 ![Image](./stringadded.png)
+* this method is handlerequest()
+* the value of the argument "url" is "/add?s=anewstring"
+* this value stays constant
+
 ![Image](./searching.png)
+* this method is handlerequest()
+* the value of the argument "url" is "/search?s=str"
+* this value stays constant
+
 ![Image](./errormessage.png)
+* this method is handlerequest()
+* the value of the argument "url" is "/error"
+* this value stays constant
