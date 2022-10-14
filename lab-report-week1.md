@@ -10,7 +10,9 @@
 
 ![Image](./image3.png)
 * try some commands, such as cd, ls, pwd, mkdir, and cp on your computer, and the server
-* you can see the list of files in the server by typing ls-a
+* you can see the list of files in the working directory by typing ls
+* typing ls-a gives you the list of all files, even hidden files
+* cd allows you to move between directories
 
 ![Image](./image4.png)
 * Make a file on your own computer, then compile and run it
