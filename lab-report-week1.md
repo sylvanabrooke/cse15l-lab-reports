@@ -5,7 +5,7 @@
 
 ![Image]((https://github.com/sylvanabrooke/cse15l-lab-reports/blob/7f2906dd104ad4339d12e7a3c0a318c508682ace/Screen%20Shot%202022-09-30%20at%204.31.22%20PM.png?raw=true))
 * make sure ssh is downloaded onto vscode, then open "Remote-SSH: Connect to Host..." from the command palatte
-* type in your username and @ieng6.ucsd.edu to open your server
+* in terminal type in "ssh" + your username + @ieng6.ucsd.edu to open your server
 * type in your password when prompted- it won't show characters, but it is being typed, and hit enter
 
 ![Image]((https://github.com/sylvanabrooke/cse15l-lab-reports/blob/107b050553c773e930d3bf1af2b0dfa697a0578a/Screen%20Shot%202022-09-30%20at%204.41.26%20PM.png?raw=true))
