@@ -13,9 +13,10 @@
 * you can see the list of files in the server by typing ls-a
 
 ![Image](./image4.png)
-* Make a file on your own computer
+* Make a file on your own computer, then compile and run it
 * run it with scp in front and your username on the end, like this: scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
-* you can now run it on the server's terminal
+* you can now compile and run it on the server's terminal
+* running it on the servers terminal will 
 
 ![Image](./image5.png)
 * to make a key, ensuring that you don't have to put your password in when switching between servers: type ssh-keygen
