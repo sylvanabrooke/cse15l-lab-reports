@@ -12,7 +12,7 @@
 * try some commands, such as cd, ls, pwd, mkdir, and cp on your computer, and the server
 * you can see the list of files in the server by typing ls-a
 
-![Image](./image4.png)
+
 * Make a file on your own computer, then compile and run it
 * run it with scp in front and your username on the end, like this: scp WhereAmI.java cs15lfa22zz@ieng6.ucsd.edu:~/
 * you can now compile and run it on the server's terminal
