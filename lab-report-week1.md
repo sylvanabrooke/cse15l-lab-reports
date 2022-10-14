@@ -20,7 +20,7 @@
 
 ![Image](./image5.png)
 * to make a key, ensuring that you don't have to put your password in when switching between servers: type ssh-keygen
-* type enter until it makes a visual key, then type ssh cs15lfa22zz@ieng6.ucsd.edu
+* type enter to create a file, /Users/joe/.ssh/id_rsa, then it will make a visual key, then type ssh cs15lfa22zz@ieng6.ucsd.edu to get back into the remote server.
 * in your server, type mkdir .ssh, then log out and type scp /Users/<personal username>/.ssh/id_rsa.pub <ucsd username>@ieng6.ucsd.edu:~/.ssh/authorized_keys
   
 ![Image](./image6.png)
