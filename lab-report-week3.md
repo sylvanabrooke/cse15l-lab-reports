@@ -46,3 +46,26 @@
 * this method is handlerequest()
 * the value of the argument "url" is "/error"
 * this value stays constant
+
+Faliure inducing input: 
+![Image](./faliureinput.png)
+
+Symptom:
+![Image](./output1.png)
+
+Bug fix:
+![Image](./fixed1.png)
+
+This bug was that the code was swapping the second half of the array into the first half without saving the first half as a variable. For this input, the bug will simply put a duplicate in the second half of the array instead of the original values. In the second method, it was setting the old array values as the new empty array values, and returning the old array. For this input, this caused the returned arrays to always be 0.
+
+Faliure inducing input: 
+![Image](./faliureinput2.png)
+
+Symptom:
+![Image](./output2.png)
+
+Bug fix:
+![Image](./fixed2.png)
+
+This bug was that the code was adding the values into the ArrayList in position 0. This would cause all of the arraylists to be in reverse order. 
+
