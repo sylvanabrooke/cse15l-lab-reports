@@ -71,5 +71,5 @@ Bug fix:
 
 ![Image](./fixed2.png)
 
-This bug was that the code was adding the values into the ArrayList in position 0. This would cause all of the arraylists to be in reverse order. 
+This bug was that the code was adding the values into the ArrayList in position 0. This would cause all of the arrayLists to be in reverse order. 
 
