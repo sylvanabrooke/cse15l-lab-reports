@@ -61,15 +61,15 @@ This bug was that the code was swapping the second half of the array into the fi
 
 Faliure inducing input: 
 
-![Image](./faliureinput2.0.png)
+![Image](./faliureinput20.png)
 
 Symptom:
 
-![Image](./output2.0.png)
+![Image](./output20.png)
 
 Bug fix:
 
-![Image](./fixed2.0.png)
+![Image](./fixed20.png)
 
 This bug was that the code was adding the values into the ArrayList in position 0. This would cause all of the arrayLists to be in reverse order. 
 
