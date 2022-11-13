@@ -3,3 +3,4 @@
 [Lab Report 1](lab-report-week1.html)
 [Lab Report 3](lab-report-week3.html)
 [Lab Report 5](lab-report-week5.html)
+[Lab Report 7](lab-report-week7.html)
