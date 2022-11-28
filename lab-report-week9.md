@@ -30,3 +30,16 @@ java -cp ".:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar" org.junit.runner.JUn
 
 grep -n "Error:" score.txt
 
+![Image](./labby1.png)
+
+![Image](./labby2.png)
+
+![Image](./labby3.png)
+
+Trace for ex. 1
+* standard output was a report that both tests had passed
+* standard error was empty
+* return code was zero because no errors
+* Line 7 if statement: Listexamples works, does not run
+* Line 19 if statement: exit code is not zero, does not run
+* Does not run: 8-9, 20-21
